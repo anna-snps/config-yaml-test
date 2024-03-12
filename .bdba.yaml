@@ -1,0 +1,7 @@
+---
+specVersion: "3"
+
+overrides:
+  - component:
+    name: "taglibs-standard"
+    newVersion: "1.2.5"
